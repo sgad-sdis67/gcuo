@@ -4794,24 +4794,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
-			},
-			"properties" : {
-				"nom" : "BRUMATH",
-				"date" : "20200323",
-				"heure" : "10",
-				"effectif_previsionnel" : "0",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.4957552752, 48.252933206 ]
 			},
 			"properties" : {
@@ -4823,6 +4805,24 @@
 				"etat" : "na",
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
+				"seuil_crise" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+			},
+			"properties" : {
+				"nom" : "BRUMATH",
+				"date" : "20200323",
+				"heure" : "10",
+				"effectif_previsionnel" : "0",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
 			}
 		},
