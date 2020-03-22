@@ -6,17 +6,17 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+				"coordinates" : [ 7.1334234209, 48.9301701232 ]
 			},
 			"properties" : {
-				"nom" : "HAGUENAU",
+				"nom" : "SARREUNION",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "97",
-				"seuil_ro" : 31,
-				"seuil_vigilance" : 23,
-				"seuil_crise" : 19,
+				"effectif" : "66",
+				"seuil_ro" : 19,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14,
 				"couleur" : "#66bb6a"
 			}
 		},
@@ -29,9 +29,27 @@
 			"properties" : {
 				"nom" : "MOLSHEIM",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "90",
+				"effectif" : "88",
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
+				"seuil_crise" : 16,
+				"couleur" : "#66bb6a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+			},
+			"properties" : {
+				"nom" : "BRUMATH",
+				"date" : "20200322000000",
+				"heure" : "03",
+				"etat" : "ok",
+				"effectif" : "67",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16,
@@ -47,9 +65,9 @@
 			"properties" : {
 				"nom" : "SOULTZFORETS",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "85",
+				"effectif" : "81",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
@@ -60,17 +78,71 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.2249313637, 48.4694788427 ]
+				"coordinates" : [ 7.7100531563, 48.5232431932 ]
 			},
 			"properties" : {
-				"nom" : "SCHIRMECK",
+				"nom" : "SUD EMS",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "58",
-				"seuil_ro" : 17,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14,
+				"effectif" : "67",
+				"seuil_ro" : 35,
+				"seuil_vigilance" : 28,
+				"seuil_crise" : 20,
+				"couleur" : "#66bb6a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7612152108, 48.6428313291 ]
+			},
+			"properties" : {
+				"nom" : "NORD EMS",
+				"date" : "20200322000000",
+				"heure" : "03",
+				"etat" : "ok",
+				"effectif" : "63",
+				"seuil_ro" : 35,
+				"seuil_vigilance" : 28,
+				"seuil_crise" : 23,
+				"couleur" : "#66bb6a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7485918484, 48.5775878572 ]
+			},
+			"properties" : {
+				"nom" : "CENTRE EMS",
+				"date" : "20200322000000",
+				"heure" : "03",
+				"etat" : "ok",
+				"effectif" : "38",
+				"seuil_ro" : 37,
+				"seuil_vigilance" : 33,
+				"seuil_crise" : 28,
+				"couleur" : "#66bb6a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4659165538, 48.822305757 ]
+			},
+			"properties" : {
+				"nom" : "SAVERNE",
+				"date" : "20200322000000",
+				"heure" : "03",
+				"etat" : "ok",
+				"effectif" : "108",
+				"seuil_ro" : 36,
+				"seuil_vigilance" : 24,
+				"seuil_crise" : 19,
 				"couleur" : "#66bb6a"
 			}
 		},
@@ -83,45 +155,9 @@
 			"properties" : {
 				"nom" : "ERSTEIN",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "42",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14,
-				"couleur" : "#66bb6a"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.1334234209, 48.9301701232 ]
-			},
-			"properties" : {
-				"nom" : "SARREUNION",
-				"date" : "20200322000000",
-				"heure" : "02",
-				"etat" : "ok",
-				"effectif" : "68",
-				"seuil_ro" : 19,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14,
-				"couleur" : "#66bb6a"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.4213583535, 48.4222763989 ]
-			},
-			"properties" : {
-				"nom" : "OBERNAI",
-				"date" : "20200322000000",
-				"heure" : "02",
-				"etat" : "ok",
-				"effectif" : "66",
+				"effectif" : "41",
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
@@ -137,9 +173,9 @@
 			"properties" : {
 				"nom" : "SELESTAT",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "72",
+				"effectif" : "69",
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16,
@@ -150,53 +186,17 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7100531563, 48.5232431932 ]
+				"coordinates" : [ 7.4213583535, 48.4222763989 ]
 			},
 			"properties" : {
-				"nom" : "SUD EMS",
+				"nom" : "OBERNAI",
 				"date" : "20200322000000",
-				"heure" : "02",
-				"etat" : "ok",
-				"effectif" : "70",
-				"seuil_ro" : 35,
-				"seuil_vigilance" : 28,
-				"seuil_crise" : 20,
-				"couleur" : "#66bb6a"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.7485918484, 48.5775878572 ]
-			},
-			"properties" : {
-				"nom" : "CENTRE EMS",
-				"date" : "20200322000000",
-				"heure" : "02",
-				"etat" : "ok",
-				"effectif" : "38",
-				"seuil_ro" : 37,
-				"seuil_vigilance" : 33,
-				"seuil_crise" : 28,
-				"couleur" : "#66bb6a"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.7612152108, 48.6428313291 ]
-			},
-			"properties" : {
-				"nom" : "NORD EMS",
-				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
 				"effectif" : "64",
-				"seuil_ro" : 35,
-				"seuil_vigilance" : 28,
-				"seuil_crise" : 23,
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14,
 				"couleur" : "#66bb6a"
 			}
 		},
@@ -204,35 +204,35 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+				"coordinates" : [ 7.7622999756, 48.9196708129 ]
 			},
 			"properties" : {
-				"nom" : "BRUMATH",
+				"nom" : "HAGUENAU",
 				"date" : "20200322000000",
-				"heure" : "02",
+				"heure" : "03",
 				"etat" : "ok",
-				"effectif" : "69",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16,
-				"couleur" : "#66bb6a"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.4659165538, 48.822305757 ]
-			},
-			"properties" : {
-				"nom" : "SAVERNE",
-				"date" : "20200322000000",
-				"heure" : "02",
-				"etat" : "ok",
-				"effectif" : "112",
-				"seuil_ro" : 36,
-				"seuil_vigilance" : 24,
+				"effectif" : "94",
+				"seuil_ro" : 31,
+				"seuil_vigilance" : 23,
 				"seuil_crise" : 19,
+				"couleur" : "#66bb6a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.2249313637, 48.4694788427 ]
+			},
+			"properties" : {
+				"nom" : "SCHIRMECK",
+				"date" : "20200322000000",
+				"heure" : "03",
+				"etat" : "ok",
+				"effectif" : "55",
+				"seuil_ro" : 17,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14,
 				"couleur" : "#66bb6a"
 			}
 		}
