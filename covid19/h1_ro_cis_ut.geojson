@@ -1,0 +1,1106 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "sig_cta.ut_cis",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4764566407, 48.4658745848 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "27",
+				"lien_ut_cis" : "OBERNAI",
+				"nom" : "OBERNAI",
+				"seuil_ro" : 12,
+				"seuil_vigilance" : 12,
+				"lien_secteur_ops" : "OBERNAI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3054672823, 48.8489410774 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "21",
+				"lien_ut_cis" : "PETERSBACH",
+				"nom" : "PETERSBACH",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SARREUNION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3842705153, 48.2831487116 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "10",
+				"lien_ut_cis" : "CHATENOIS",
+				"nom" : "CHATENOIS",
+				"seuil_ro" : null,
+				"seuil_vigilance" : null,
+				"lien_secteur_ops" : "SELESTAT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7329159736, 48.4600302163 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "15",
+				"lien_ut_cis" : "PLOBSHEIM",
+				"nom" : "PLOBSHEIM",
+				"seuil_ro" : 2,
+				"seuil_vigilance" : 2,
+				"lien_secteur_ops" : "SUD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.8176325908, 48.8392796885 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "23",
+				"lien_ut_cis" : "HAGUENAU",
+				"nom" : "HAGUENAU",
+				"seuil_ro" : 14,
+				"seuil_vigilance" : 14,
+				"lien_secteur_ops" : "HAGUENAU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3852109103, 48.6834590874 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "19",
+				"lien_ut_cis" : "MARMOUTIER",
+				"nom" : "MARMOUTIER",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "SAVERNE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.9642227042, 48.99941946 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "22",
+				"lien_ut_cis" : "WISSEMBOURG",
+				"nom" : "WISSEMBOURG",
+				"seuil_ro" : 6,
+				"seuil_vigilance" : 6,
+				"lien_secteur_ops" : "SOULTZFORETS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.2784428483, 48.5215848378 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "20",
+				"lien_ut_cis" : "URMATT",
+				"nom" : "URMATT",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SCHIRMECK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4385241319, 48.816545861 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "19",
+				"lien_ut_cis" : "BOUXWILLER",
+				"nom" : "BOUXWILLER",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SAVERNE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6856407469, 48.3279640955 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "BOOFZHEIM",
+				"nom" : "BOOFZHEIM",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "ERSTEIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3978255184, 48.7311459745 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "21",
+				"lien_ut_cis" : "SAVERNE",
+				"nom" : "SAVERNE",
+				"seuil_ro" : 14,
+				"seuil_vigilance" : 12,
+				"lien_secteur_ops" : "SAVERNE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.1573663359, 48.8767763715 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "23",
+				"lien_ut_cis" : "DRULINGEN",
+				"nom" : "DRULINGEN",
+				"seuil_ro" : 6,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SARREUNION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.1913096086, 48.4590724969 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "24",
+				"lien_ut_cis" : "SCHIRMECK",
+				"nom" : "SCHIRMECK",
+				"seuil_ro" : 9,
+				"seuil_vigilance" : 9,
+				"lien_secteur_ops" : "SCHIRMECK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7515113502, 48.6092457859 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "15",
+				"lien_ut_cis" : "BISCHHEIM SCHILTIGHEIM",
+				"nom" : "BISCHHEIM SCHILTIGHEIM",
+				"seuil_ro" : 2,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "NORD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.911969938, 48.9293061018 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "27",
+				"lien_ut_cis" : "SOULTZFORETS",
+				"nom" : "SOULTZFORETS",
+				"seuil_ro" : 7,
+				"seuil_vigilance" : 6,
+				"lien_secteur_ops" : "SOULTZFORETS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.0249314685, 48.8179803928 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "18",
+				"lien_ut_cis" : "SOUFFLENHEIM",
+				"nom" : "SOUFFLENHEIM",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "BRUMATH"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7266945506, 48.7342047877 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "16",
+				"lien_ut_cis" : "BRUMATH",
+				"nom" : "BRUMATH",
+				"seuil_ro" : 9,
+				"seuil_vigilance" : 9,
+				"lien_secteur_ops" : "BRUMATH"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.797530326, 48.61534192 ]
+			},
+			"properties" : {
+				"etat" : "ro",
+				"couleur" : "#fdd835",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "19",
+				"lien_ut_cis" : "STRASBOURG NORD",
+				"nom" : "STRASBOURG NORD",
+				"seuil_ro" : 21,
+				"seuil_vigilance" : 19,
+				"lien_secteur_ops" : "NORD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4303426637, 48.3316795671 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "9",
+				"lien_ut_cis" : "BERNSTEIN",
+				"nom" : "BERNSTEIN",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "OBERNAI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3988359695, 48.9279459693 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "12",
+				"lien_ut_cis" : "WINGENMODER",
+				"nom" : "WINGENMODER",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "SAVERNE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.8676832416, 48.7639735075 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "21",
+				"lien_ut_cis" : "BISCHWILLER",
+				"nom" : "BISCHWILLER",
+				"seuil_ro" : 7,
+				"seuil_vigilance" : 6,
+				"lien_secteur_ops" : "BRUMATH"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.1205162129, 48.9470229581 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "23",
+				"lien_ut_cis" : "LAUTERBOURG",
+				"nom" : "LAUTERBOURG",
+				"seuil_ro" : 2,
+				"seuil_vigilance" : 2,
+				"lien_secteur_ops" : "SOULTZFORETS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6577321472, 48.5546060992 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "16",
+				"lien_ut_cis" : "LINGOLSHEIM",
+				"nom" : "LINGOLSHEIM",
+				"seuil_ro" : 9,
+				"seuil_vigilance" : 6,
+				"lien_secteur_ops" : "SUD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6442786699, 48.5016304511 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "FEGERSHEIM ESCHAU",
+				"nom" : "FEGERSHEIM ESCHAU",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SUD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3465619392, 48.4894033571 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "ROSHEIM",
+				"nom" : "ROSHEIM",
+				"seuil_ro" : null,
+				"seuil_vigilance" : null,
+				"lien_secteur_ops" : "OBERNAI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4804840644, 48.6256079418 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "MARLENHEIM",
+				"nom" : "MARLENHEIM",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "MOLSHEIM"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7574897054, 48.9200994381 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "19",
+				"lien_ut_cis" : "WOERTH",
+				"nom" : "WOERTH",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "HAGUENAU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.5912524434, 48.8482342507 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "24",
+				"lien_ut_cis" : "VAL DE MODER",
+				"nom" : "VAL DE MODER",
+				"seuil_ro" : 7,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "HAGUENAU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4379684842, 48.5397865861 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "18",
+				"lien_ut_cis" : "MUTZIG",
+				"nom" : "MUTZIG",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "MOLSHEIM"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7302573859, 48.5242393506 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "15",
+				"lien_ut_cis" : "ILLKIRCH GRAFFENSTADEN",
+				"nom" : "ILLKIRCH GRAFFENSTADEN",
+				"seuil_ro" : 2,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "SUD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6644201746, 48.4319128067 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "14",
+				"lien_ut_cis" : "ERSTEIN",
+				"nom" : "ERSTEIN",
+				"seuil_ro" : 12,
+				"seuil_vigilance" : 12,
+				"lien_secteur_ops" : "ERSTEIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4956524186, 48.2656519029 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "22",
+				"lien_ut_cis" : "SELESTAT",
+				"nom" : "SELESTAT",
+				"seuil_ro" : 14,
+				"seuil_vigilance" : 14,
+				"lien_secteur_ops" : "SELESTAT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.5374508398, 48.5460998064 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "27",
+				"lien_ut_cis" : "MOLSHEIM",
+				"nom" : "MOLSHEIM",
+				"seuil_ro" : 14,
+				"seuil_vigilance" : 14,
+				"lien_secteur_ops" : "MOLSHEIM"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.89262072, 48.706690138 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "20",
+				"lien_ut_cis" : "GAMBSHEIM",
+				"nom" : "GAMBSHEIM",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "BRUMATH"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7317004194, 48.6694566136 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "11",
+				"lien_ut_cis" : "VENDENHEIM",
+				"nom" : "VENDENHEIM",
+				"seuil_ro" : 9,
+				"seuil_vigilance" : 6,
+				"lien_secteur_ops" : "NORD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.2760625356, 48.3378947917 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "VILLE",
+				"nom" : "VILLE",
+				"seuil_ro" : 6,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SELESTAT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7186732003, 48.5889449391 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "23",
+				"lien_ut_cis" : "STRASBOURG OUEST",
+				"nom" : "STRASBOURG OUEST",
+				"seuil_ro" : 22,
+				"seuil_vigilance" : 19,
+				"lien_secteur_ops" : "CENTRE EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7689833514, 48.5268015654 ]
+			},
+			"properties" : {
+				"etat" : "vig",
+				"couleur" : "#e53935",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "15",
+				"lien_ut_cis" : "STRASBOURG SUD",
+				"nom" : "STRASBOURG SUD",
+				"seuil_ro" : 19,
+				"seuil_vigilance" : 17,
+				"lien_secteur_ops" : "SUD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.8216264029, 48.6509010205 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "20",
+				"lien_ut_cis" : "HOENHEIM SOUFFELWEYERSHEIM",
+				"nom" : "HOENHEIM SOUFFELWEYERSHEIM",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "NORD EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.0673717519, 48.9014910952 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "17",
+				"lien_ut_cis" : "SELTZ",
+				"nom" : "SELTZ",
+				"seuil_ro" : 2,
+				"seuil_vigilance" : 1,
+				"lien_secteur_ops" : "SOULTZFORETS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.2235058004, 48.9547137669 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "6",
+				"lien_ut_cis" : "DIEMERINGEN",
+				"nom" : "DIEMERINGEN",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "SARREUNION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6388752946, 48.9671962899 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "22",
+				"lien_ut_cis" : "NIEDERBRONN",
+				"nom" : "NIEDERBRONN",
+				"seuil_ro" : 7,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "HAGUENAU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.579166758, 48.7636929598 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "12",
+				"lien_ut_cis" : "HOCHFELDEN",
+				"nom" : "HOCHFELDEN",
+				"seuil_ro" : 7,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SAVERNE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7120601973, 48.8004245985 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "7",
+				"lien_ut_cis" : "SCHWEIGHOUSE SUR MODER",
+				"nom" : "SCHWEIGHOUSE SUR MODER",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "HAGUENAU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7759317424, 49.0168918793 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "12",
+				"lien_ut_cis" : "LEMBACH",
+				"nom" : "LEMBACH",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "HAGUENAU"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4150213438, 48.3825295845 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "19",
+				"lien_ut_cis" : "BARR",
+				"nom" : "BARR",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "OBERNAI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4717765528, 48.8911875487 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "19",
+				"lien_ut_cis" : "INGWILLER",
+				"nom" : "INGWILLER",
+				"seuil_ro" : 9,
+				"seuil_vigilance" : 6,
+				"lien_secteur_ops" : "SAVERNE"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.1615306957, 48.3867451818 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "SAALES",
+				"nom" : "SAALES",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SCHIRMECK"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.599188674, 48.6457790194 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "18",
+				"lien_ut_cis" : "TRUCHTERSHEIM",
+				"nom" : "TRUCHTERSHEIM",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "MOLSHEIM"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.3691876451, 48.6334851407 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "25",
+				"lien_ut_cis" : "WASSELONNE",
+				"nom" : "WASSELONNE",
+				"seuil_ro" : 7,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "MOLSHEIM"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.0556262463, 48.9523034965 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "20",
+				"lien_ut_cis" : "SARREUNION",
+				"nom" : "SARREUNION",
+				"seuil_ro" : 9,
+				"seuil_vigilance" : 9,
+				"lien_secteur_ops" : "SARREUNION"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.5856500481, 48.3688645981 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "BENFELD",
+				"nom" : "BENFELD",
+				"seuil_ro" : 3,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "ERSTEIN"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7589157823, 48.5714350106 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "16",
+				"lien_ut_cis" : "STRASBOURG FINK",
+				"nom" : "STRASBOURG FINK",
+				"seuil_ro" : 15,
+				"seuil_vigilance" : 14,
+				"lien_secteur_ops" : "CENTRE EMS"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6086082249, 48.2595316038 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "14",
+				"lien_ut_cis" : "SUNDHOUSE",
+				"nom" : "SUNDHOUSE",
+				"seuil_ro" : 0,
+				"seuil_vigilance" : 0,
+				"lien_secteur_ops" : "SELESTAT"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.5441886802, 48.1744473267 ]
+			},
+			"properties" : {
+				"etat" : "ok",
+				"couleur" : "#66bb6a",
+				"id" : "",
+				"date" : "20200320000000",
+				"heure" : "21",
+				"effectif" : "13",
+				"lien_ut_cis" : "MARCKOLSHEIM",
+				"nom" : "MARCKOLSHEIM",
+				"seuil_ro" : 4,
+				"seuil_vigilance" : 3,
+				"lien_secteur_ops" : "SELESTAT"
+			}
+		}
+	]
+}
