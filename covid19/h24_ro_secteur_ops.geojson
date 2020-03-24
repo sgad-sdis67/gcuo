@@ -6,15 +6,15 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4094703946, 48.6056968816 ]
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
 			},
 			"properties" : {
-				"nom" : "MOLSHEIM",
+				"nom" : "BRUMATH",
 				"date" : "20200324",
-				"heure" : "01",
-				"effectif_previsionnel" : "97",
-				"effectif_reel" : "97",
-				"etat" : "ok",
+				"heure" : "14",
+				"effectif_previsionnel" : "64",
+				"effectif_reel" : "0",
+				"etat" : "na",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
@@ -1986,24 +1986,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
-			},
-			"properties" : {
-				"nom" : "BRUMATH",
-				"date" : "20200324",
-				"heure" : "14",
-				"effectif_previsionnel" : "64",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.4213583535, 48.4222763989 ]
 			},
 			"properties" : {
@@ -2675,7 +2657,7 @@
 			"properties" : {
 				"nom" : "CENTRE EMS",
 				"date" : "20200324",
-				"heure" : "21",
+				"heure" : "23",
 				"effectif_previsionnel" : "36",
 				"effectif_reel" : "0",
 				"etat" : "na",
@@ -2711,7 +2693,7 @@
 			"properties" : {
 				"nom" : "CENTRE EMS",
 				"date" : "20200324",
-				"heure" : "23",
+				"heure" : "21",
 				"effectif_previsionnel" : "36",
 				"effectif_reel" : "0",
 				"etat" : "na",
@@ -3012,24 +2994,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4659165538, 48.822305757 ]
-			},
-			"properties" : {
-				"nom" : "SAVERNE",
-				"date" : "20200324",
-				"heure" : "04",
-				"effectif_previsionnel" : "92",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 36,
-				"seuil_vigilance" : 24,
-				"seuil_crise" : 19
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.7485918484, 48.5775878572 ]
 			},
 			"properties" : {
@@ -3042,6 +3006,24 @@
 				"seuil_ro" : 37,
 				"seuil_vigilance" : 33,
 				"seuil_crise" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4659165538, 48.822305757 ]
+			},
+			"properties" : {
+				"nom" : "SAVERNE",
+				"date" : "20200324",
+				"heure" : "04",
+				"effectif_previsionnel" : "92",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 36,
+				"seuil_vigilance" : 24,
+				"seuil_crise" : 19
 			}
 		},
 		{
@@ -4038,24 +4020,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7485918484, 48.5775878572 ]
-			},
-			"properties" : {
-				"nom" : "CENTRE EMS",
-				"date" : "20200324",
-				"heure" : "14",
-				"effectif_previsionnel" : "36",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 37,
-				"seuil_vigilance" : 33,
-				"seuil_crise" : 28
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.4957552752, 48.252933206 ]
 			},
 			"properties" : {
@@ -4068,6 +4032,24 @@
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7485918484, 48.5775878572 ]
+			},
+			"properties" : {
+				"nom" : "CENTRE EMS",
+				"date" : "20200324",
+				"heure" : "14",
+				"effectif_previsionnel" : "36",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 37,
+				"seuil_vigilance" : 33,
+				"seuil_crise" : 28
 			}
 		},
 		{
@@ -5526,6 +5508,24 @@
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4094703946, 48.6056968816 ]
+			},
+			"properties" : {
+				"nom" : "MOLSHEIM",
+				"date" : "20200324",
+				"heure" : "01",
+				"effectif_previsionnel" : "97",
+				"effectif_reel" : "97",
+				"etat" : "ok",
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
+				"seuil_crise" : 16
 			}
 		},
 		{
