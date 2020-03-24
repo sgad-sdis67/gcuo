@@ -2670,24 +2670,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4213583535, 48.4222763989 ]
-			},
-			"properties" : {
-				"nom" : "OBERNAI",
-				"date" : "20200324",
-				"heure" : "21",
-				"effectif_previsionnel" : "65",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.7485918484, 48.5775878572 ]
 			},
 			"properties" : {
@@ -2700,6 +2682,24 @@
 				"seuil_ro" : 37,
 				"seuil_vigilance" : 33,
 				"seuil_crise" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4213583535, 48.4222763989 ]
+			},
+			"properties" : {
+				"nom" : "OBERNAI",
+				"date" : "20200324",
+				"heure" : "21",
+				"effectif_previsionnel" : "65",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -3588,24 +3588,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.2249313637, 48.4694788427 ]
-			},
-			"properties" : {
-				"nom" : "SCHIRMECK",
-				"date" : "20200324",
-				"heure" : "15",
-				"effectif_previsionnel" : "46",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 17,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.4659165538, 48.822305757 ]
 			},
 			"properties" : {
@@ -3618,6 +3600,24 @@
 				"seuil_ro" : 36,
 				"seuil_vigilance" : 24,
 				"seuil_crise" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.2249313637, 48.4694788427 ]
+			},
+			"properties" : {
+				"nom" : "SCHIRMECK",
+				"date" : "20200324",
+				"heure" : "15",
+				"effectif_previsionnel" : "46",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 17,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
