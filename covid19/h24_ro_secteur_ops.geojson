@@ -30,7 +30,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "11",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -102,7 +102,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "22",
-				"effectif_previsionnel" : "65",
+				"effectif_previsionnel" : "66",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -120,7 +120,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "09",
-				"effectif_previsionnel" : "87",
+				"effectif_previsionnel" : "88",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -175,8 +175,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "66",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "66",
+				"etat" : "ok",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -258,24 +258,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.6267904584, 48.3922230186 ]
-			},
-			"properties" : {
-				"nom" : "ERSTEIN",
-				"date" : "20200324",
-				"heure" : "12",
-				"effectif_previsionnel" : "45",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.9247423081, 48.7711840559 ]
 			},
 			"properties" : {
@@ -288,6 +270,24 @@
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.6267904584, 48.3922230186 ]
+			},
+			"properties" : {
+				"nom" : "ERSTEIN",
+				"date" : "20200324",
+				"heure" : "12",
+				"effectif_previsionnel" : "45",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "05",
-				"effectif_previsionnel" : "57",
+				"effectif_previsionnel" : "58",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -372,7 +372,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "10",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -480,7 +480,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "09",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -517,8 +517,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "65",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "65",
+				"etat" : "ok",
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -589,8 +589,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "82",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "82",
+				"etat" : "ok",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -625,8 +625,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "36",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "36",
+				"etat" : "ro",
 				"seuil_ro" : 37,
 				"seuil_vigilance" : 33,
 				"seuil_crise" : 28
@@ -660,7 +660,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "20",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -786,7 +786,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "08",
-				"effectif_previsionnel" : "88",
+				"effectif_previsionnel" : "89",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -804,7 +804,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "16",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -859,8 +859,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "68",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "69",
+				"etat" : "ok",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 23
@@ -1002,7 +1002,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "23",
-				"effectif_previsionnel" : "65",
+				"effectif_previsionnel" : "66",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -1038,7 +1038,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "13",
-				"effectif_previsionnel" : "85",
+				"effectif_previsionnel" : "86",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -1146,7 +1146,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "07",
-				"effectif_previsionnel" : "58",
+				"effectif_previsionnel" : "59",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -1254,7 +1254,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "06",
-				"effectif_previsionnel" : "54",
+				"effectif_previsionnel" : "55",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -1399,8 +1399,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "51",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "51",
+				"etat" : "ok",
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -1416,7 +1416,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "12",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -1914,6 +1914,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 7.6267904584, 48.3922230186 ]
+			},
+			"properties" : {
+				"nom" : "ERSTEIN",
+				"date" : "20200324",
+				"heure" : "20",
+				"effectif_previsionnel" : "52",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 7.7622999756, 48.9196708129 ]
 			},
 			"properties" : {
@@ -1956,30 +1974,12 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "14",
-				"effectif_previsionnel" : "61",
+				"effectif_previsionnel" : "62",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 23
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.6267904584, 48.3922230186 ]
-			},
-			"properties" : {
-				"nom" : "ERSTEIN",
-				"date" : "20200324",
-				"heure" : "20",
-				"effectif_previsionnel" : "52",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
 			}
 		},
 		{
@@ -2118,7 +2118,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "03",
-				"effectif_previsionnel" : "67",
+				"effectif_previsionnel" : "68",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -2136,7 +2136,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "10",
-				"effectif_previsionnel" : "88",
+				"effectif_previsionnel" : "89",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -2155,8 +2155,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "74",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "74",
+				"etat" : "ok",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 20
@@ -2172,7 +2172,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "07",
-				"effectif_previsionnel" : "88",
+				"effectif_previsionnel" : "89",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -2280,7 +2280,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "18",
-				"effectif_previsionnel" : "63",
+				"effectif_previsionnel" : "64",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -2478,7 +2478,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "17",
-				"effectif_previsionnel" : "95",
+				"effectif_previsionnel" : "96",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -2533,8 +2533,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "108",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "108",
+				"etat" : "ok",
 				"seuil_ro" : 31,
 				"seuil_vigilance" : 23,
 				"seuil_crise" : 19
@@ -2652,24 +2652,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4213583535, 48.4222763989 ]
-			},
-			"properties" : {
-				"nom" : "OBERNAI",
-				"date" : "20200324",
-				"heure" : "21",
-				"effectif_previsionnel" : "65",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.9933313527, 48.944409448 ]
 			},
 			"properties" : {
@@ -2693,7 +2675,7 @@
 			"properties" : {
 				"nom" : "CENTRE EMS",
 				"date" : "20200324",
-				"heure" : "21",
+				"heure" : "23",
 				"effectif_previsionnel" : "36",
 				"effectif_reel" : "0",
 				"etat" : "na",
@@ -2706,12 +2688,30 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 7.4213583535, 48.4222763989 ]
+			},
+			"properties" : {
+				"nom" : "OBERNAI",
+				"date" : "20200324",
+				"heure" : "21",
+				"effectif_previsionnel" : "65",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 7.7485918484, 48.5775878572 ]
 			},
 			"properties" : {
 				"nom" : "CENTRE EMS",
 				"date" : "20200324",
-				"heure" : "23",
+				"heure" : "21",
 				"effectif_previsionnel" : "36",
 				"effectif_reel" : "0",
 				"etat" : "na",
@@ -2874,7 +2874,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "02",
-				"effectif_previsionnel" : "68",
+				"effectif_previsionnel" : "69",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -2892,7 +2892,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "08",
-				"effectif_previsionnel" : "62",
+				"effectif_previsionnel" : "63",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -2929,8 +2929,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "83",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "83",
+				"etat" : "ok",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
@@ -3036,7 +3036,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "17",
-				"effectif_previsionnel" : "63",
+				"effectif_previsionnel" : "64",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -3162,7 +3162,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "11",
-				"effectif_previsionnel" : "88",
+				"effectif_previsionnel" : "89",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -3486,7 +3486,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "14",
-				"effectif_previsionnel" : "88",
+				"effectif_previsionnel" : "89",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -3739,8 +3739,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "104",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "104",
+				"etat" : "ok",
 				"seuil_ro" : 36,
 				"seuil_vigilance" : 24,
 				"seuil_crise" : 19
@@ -3792,7 +3792,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "04",
-				"effectif_previsionnel" : "63",
+				"effectif_previsionnel" : "64",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -3810,7 +3810,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "13",
-				"effectif_previsionnel" : "60",
+				"effectif_previsionnel" : "61",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -3829,8 +3829,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "69",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "69",
+				"etat" : "ok",
 				"seuil_ro" : 19,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -3954,7 +3954,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "19",
-				"effectif_previsionnel" : "61",
+				"effectif_previsionnel" : "62",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -4020,24 +4020,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4957552752, 48.252933206 ]
-			},
-			"properties" : {
-				"nom" : "SELESTAT",
-				"date" : "20200324",
-				"heure" : "04",
-				"effectif_previsionnel" : "65",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 24,
-				"seuil_vigilance" : 20,
-				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.7485918484, 48.5775878572 ]
 			},
 			"properties" : {
@@ -4050,6 +4032,24 @@
 				"seuil_ro" : 37,
 				"seuil_vigilance" : 33,
 				"seuil_crise" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4957552752, 48.252933206 ]
+			},
+			"properties" : {
+				"nom" : "SELESTAT",
+				"date" : "20200324",
+				"heure" : "04",
+				"effectif_previsionnel" : "65",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 24,
+				"seuil_vigilance" : 20,
+				"seuil_crise" : 16
 			}
 		},
 		{
@@ -4368,7 +4368,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "18",
-				"effectif_previsionnel" : "100",
+				"effectif_previsionnel" : "101",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -4692,7 +4692,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "15",
-				"effectif_previsionnel" : "61",
+				"effectif_previsionnel" : "62",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
@@ -4764,7 +4764,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "16",
-				"effectif_previsionnel" : "92",
+				"effectif_previsionnel" : "93",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -4854,7 +4854,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "12",
-				"effectif_previsionnel" : "86",
+				"effectif_previsionnel" : "87",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -5197,8 +5197,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "72",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "72",
+				"etat" : "ok",
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16
@@ -5250,7 +5250,7 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200324",
 				"heure" : "15",
-				"effectif_previsionnel" : "91",
+				"effectif_previsionnel" : "92",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 31,
@@ -5521,8 +5521,8 @@
 				"date" : "20200324",
 				"heure" : "01",
 				"effectif_previsionnel" : "97",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "97",
+				"etat" : "ok",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
@@ -5555,7 +5555,7 @@
 			"properties" : {
 				"nom" : "SARREUNION",
 				"date" : "20200324",
-				"heure" : "13",
+				"heure" : "08",
 				"effectif_previsionnel" : "60",
 				"effectif_reel" : "0",
 				"etat" : "na",
@@ -5573,7 +5573,7 @@
 			"properties" : {
 				"nom" : "SARREUNION",
 				"date" : "20200324",
-				"heure" : "08",
+				"heure" : "13",
 				"effectif_previsionnel" : "60",
 				"effectif_reel" : "0",
 				"etat" : "na",
@@ -5610,7 +5610,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200324",
 				"heure" : "21",
-				"effectif_previsionnel" : "63",
+				"effectif_previsionnel" : "64",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
