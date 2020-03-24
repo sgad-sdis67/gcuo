@@ -6,18 +6,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+				"coordinates" : [ 7.4213583535, 48.4222763989 ]
 			},
 			"properties" : {
-				"nom" : "HAGUENAU",
+				"nom" : "OBERNAI",
 				"date" : "20200324",
-				"heure" : "07",
-				"effectif_previsionnel" : "89",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 31,
-				"seuil_vigilance" : 23,
-				"seuil_crise" : 19
+				"heure" : "02",
+				"effectif_previsionnel" : "66",
+				"effectif_reel" : "66",
+				"etat" : "ok",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -2160,6 +2160,24 @@
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 20
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+			},
+			"properties" : {
+				"nom" : "HAGUENAU",
+				"date" : "20200324",
+				"heure" : "07",
+				"effectif_previsionnel" : "89",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 31,
+				"seuil_vigilance" : 23,
+				"seuil_crise" : 19
 			}
 		},
 		{
@@ -5436,24 +5454,6 @@
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.4213583535, 48.4222763989 ]
-			},
-			"properties" : {
-				"nom" : "OBERNAI",
-				"date" : "20200324",
-				"heure" : "02",
-				"effectif_previsionnel" : "66",
-				"effectif_reel" : "66",
-				"etat" : "ok",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
 			}
 		},
 		{
