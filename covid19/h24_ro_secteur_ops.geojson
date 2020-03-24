@@ -258,24 +258,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
-			},
-			"properties" : {
-				"nom" : "BRUMATH",
-				"date" : "20200324",
-				"heure" : "13",
-				"effectif_previsionnel" : "64",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.6267904584, 48.3922230186 ]
 			},
 			"properties" : {
@@ -288,6 +270,24 @@
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+			},
+			"properties" : {
+				"nom" : "BRUMATH",
+				"date" : "20200324",
+				"heure" : "13",
+				"effectif_previsionnel" : "64",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
+				"seuil_crise" : 16
 			}
 		},
 		{
@@ -4182,18 +4182,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+				"coordinates" : [ 7.7100531563, 48.5232431932 ]
 			},
 			"properties" : {
-				"nom" : "BRUMATH",
+				"nom" : "SUD EMS",
 				"date" : "20200324",
-				"heure" : "18",
-				"effectif_previsionnel" : "71",
+				"heure" : "22",
+				"effectif_previsionnel" : "74",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
+				"seuil_ro" : 35,
+				"seuil_vigilance" : 28,
+				"seuil_crise" : 20
 			}
 		},
 		{
@@ -4254,18 +4254,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7100531563, 48.5232431932 ]
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
 			},
 			"properties" : {
-				"nom" : "SUD EMS",
+				"nom" : "BRUMATH",
 				"date" : "20200324",
-				"heure" : "22",
-				"effectif_previsionnel" : "74",
+				"heure" : "18",
+				"effectif_previsionnel" : "71",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 35,
-				"seuil_vigilance" : 28,
-				"seuil_crise" : 20
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
+				"seuil_crise" : 16
 			}
 		},
 		{
