@@ -1104,18 +1104,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4957552752, 48.252933206 ]
+				"coordinates" : [ 7.6267904584, 48.3922230186 ]
 			},
 			"properties" : {
-				"nom" : "SELESTAT",
+				"nom" : "ERSTEIN",
 				"date" : "20200324",
-				"heure" : "14",
-				"effectif_previsionnel" : "59",
+				"heure" : "09",
+				"effectif_previsionnel" : "45",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 24,
-				"seuil_vigilance" : 20,
-				"seuil_crise" : 16
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -1176,18 +1176,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.6267904584, 48.3922230186 ]
+				"coordinates" : [ 7.4957552752, 48.252933206 ]
 			},
 			"properties" : {
-				"nom" : "ERSTEIN",
+				"nom" : "SELESTAT",
 				"date" : "20200324",
-				"heure" : "09",
-				"effectif_previsionnel" : "45",
+				"heure" : "14",
+				"effectif_previsionnel" : "59",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
+				"seuil_ro" : 24,
+				"seuil_vigilance" : 20,
+				"seuil_crise" : 16
 			}
 		},
 		{
