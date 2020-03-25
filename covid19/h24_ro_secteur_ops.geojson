@@ -44,7 +44,7 @@
 				"type" : "Point",
 				"coordinates" : [ 7.2249313637, 48.4694788427 ]
 			},
-			"properties" : {
+			"properties" : { 
 				"nom" : "SCHIRMECK",
 				"date" : "20200325",
 				"heure" : "15",
