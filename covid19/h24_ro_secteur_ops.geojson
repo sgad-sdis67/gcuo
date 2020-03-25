@@ -462,7 +462,7 @@
 				"nom" : "NORD EMS",
 				"date" : "20200325",
 				"heure" : "21",
-				"effectif_previsionnel" : "65",
+				"effectif_previsionnel" : "64",
 				"effectif_reel" : "0",
 				"etat" : "na",
 				"seuil_ro" : 35,
