@@ -6,18 +6,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+				"coordinates" : [ 7.7100531563, 48.5232431932 ]
 			},
 			"properties" : {
-				"nom" : "HAGUENAU",
+				"nom" : "SUD EMS",
 				"date" : "20200325",
-				"heure" : "23",
-				"effectif_previsionnel" : "118",
+				"heure" : "19",
+				"effectif_previsionnel" : "69",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 31,
-				"seuil_vigilance" : 23,
-				"seuil_crise" : 19
+				"seuil_ro" : 35,
+				"seuil_vigilance" : 28,
+				"seuil_crise" : 20
 			}
 		},
 		{
@@ -157,8 +157,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "39",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "39",
+				"etat" : "ok",
 				"seuil_ro" : 37,
 				"seuil_vigilance" : 33,
 				"seuil_crise" : 28
@@ -391,8 +391,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "109",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "109",
+				"etat" : "ok",
 				"seuil_ro" : 31,
 				"seuil_vigilance" : 23,
 				"seuil_crise" : 19
@@ -1237,8 +1237,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "83",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "83",
+				"etat" : "ok",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -1266,24 +1266,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.4213583535, 48.4222763989 ]
-			},
-			"properties" : {
-				"nom" : "OBERNAI",
-				"date" : "20200325",
-				"heure" : "20",
-				"effectif_previsionnel" : "63",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.4957552752, 48.252933206 ]
 			},
 			"properties" : {
@@ -1296,6 +1278,24 @@
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.4213583535, 48.4222763989 ]
+			},
+			"properties" : {
+				"nom" : "OBERNAI",
+				"date" : "20200325",
+				"heure" : "20",
+				"effectif_previsionnel" : "63",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -1788,6 +1788,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+			},
+			"properties" : {
+				"nom" : "HAGUENAU",
+				"date" : "20200325",
+				"heure" : "23",
+				"effectif_previsionnel" : "118",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 31,
+				"seuil_vigilance" : 23,
+				"seuil_crise" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 7.7485918484, 48.5775878572 ]
 			},
 			"properties" : {
@@ -2202,18 +2220,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+				"coordinates" : [ 7.4957552752, 48.252933206 ]
 			},
 			"properties" : {
-				"nom" : "HAGUENAU",
+				"nom" : "SELESTAT",
 				"date" : "20200325",
-				"heure" : "13",
-				"effectif_previsionnel" : "91",
+				"heure" : "23",
+				"effectif_previsionnel" : "77",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 31,
-				"seuil_vigilance" : 23,
-				"seuil_crise" : 19
+				"seuil_ro" : 24,
+				"seuil_vigilance" : 20,
+				"seuil_crise" : 16
 			}
 		},
 		{
@@ -2232,6 +2250,24 @@
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7622999756, 48.9196708129 ]
+			},
+			"properties" : {
+				"nom" : "HAGUENAU",
+				"date" : "20200325",
+				"heure" : "13",
+				"effectif_previsionnel" : "91",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 31,
+				"seuil_vigilance" : 23,
+				"seuil_crise" : 19
 			}
 		},
 		{
@@ -2263,8 +2299,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "73",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "73",
+				"etat" : "ok",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 20
@@ -2285,24 +2321,6 @@
 				"etat" : "na",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.4957552752, 48.252933206 ]
-			},
-			"properties" : {
-				"nom" : "SELESTAT",
-				"date" : "20200325",
-				"heure" : "23",
-				"effectif_previsionnel" : "77",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 24,
-				"seuil_vigilance" : 20,
 				"seuil_crise" : 16
 			}
 		},
@@ -2459,24 +2477,6 @@
 			"properties" : {
 				"nom" : "SUD EMS",
 				"date" : "20200325",
-				"heure" : "19",
-				"effectif_previsionnel" : "69",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 35,
-				"seuil_vigilance" : 28,
-				"seuil_crise" : 20
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 7.7100531563, 48.5232431932 ]
-			},
-			"properties" : {
-				"nom" : "SUD EMS",
-				"date" : "20200325",
 				"heure" : "11",
 				"effectif_previsionnel" : "76",
 				"effectif_reel" : "0",
@@ -2569,8 +2569,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "65",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "65",
+				"etat" : "ok",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -2832,24 +2832,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.2249313637, 48.4694788427 ]
-			},
-			"properties" : {
-				"nom" : "SCHIRMECK",
-				"date" : "20200325",
-				"heure" : "07",
-				"effectif_previsionnel" : "55",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 17,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.9247423081, 48.7711840559 ]
 			},
 			"properties" : {
@@ -2862,6 +2844,24 @@
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.2249313637, 48.4694788427 ]
+			},
+			"properties" : {
+				"nom" : "SCHIRMECK",
+				"date" : "20200325",
+				"heure" : "07",
+				"effectif_previsionnel" : "55",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 17,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -3282,24 +3282,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.7485918484, 48.5775878572 ]
-			},
-			"properties" : {
-				"nom" : "CENTRE EMS",
-				"date" : "20200325",
-				"heure" : "10",
-				"effectif_previsionnel" : "39",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 37,
-				"seuil_vigilance" : 33,
-				"seuil_crise" : 28
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.4213583535, 48.4222763989 ]
 			},
 			"properties" : {
@@ -3312,6 +3294,24 @@
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.7485918484, 48.5775878572 ]
+			},
+			"properties" : {
+				"nom" : "CENTRE EMS",
+				"date" : "20200325",
+				"heure" : "10",
+				"effectif_previsionnel" : "39",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 37,
+				"seuil_vigilance" : 33,
+				"seuil_crise" : 28
 			}
 		},
 		{
@@ -3343,8 +3343,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "73",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "73",
+				"etat" : "ok",
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16
@@ -3613,8 +3613,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "63",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "63",
+				"etat" : "ok",
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -3696,24 +3696,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
-			},
-			"properties" : {
-				"nom" : "BRUMATH",
-				"date" : "20200325",
-				"heure" : "14",
-				"effectif_previsionnel" : "60",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 7.7622999756, 48.9196708129 ]
 			},
 			"properties" : {
@@ -3726,6 +3708,24 @@
 				"seuil_ro" : 31,
 				"seuil_vigilance" : 23,
 				"seuil_crise" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+			},
+			"properties" : {
+				"nom" : "BRUMATH",
+				"date" : "20200325",
+				"heure" : "14",
+				"effectif_previsionnel" : "60",
+				"effectif_reel" : "0",
+				"etat" : "na",
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
+				"seuil_crise" : 16
 			}
 		},
 		{
@@ -3775,8 +3775,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "111",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "111",
+				"etat" : "ok",
 				"seuil_ro" : 36,
 				"seuil_vigilance" : 24,
 				"seuil_crise" : 19
@@ -4099,8 +4099,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "97",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "97",
+				"etat" : "ok",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
@@ -4153,8 +4153,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "74",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "74",
+				"etat" : "ok",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16
@@ -4164,18 +4164,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.6267904584, 48.3922230186 ]
+				"coordinates" : [ 7.9247423081, 48.7711840559 ]
 			},
 			"properties" : {
-				"nom" : "ERSTEIN",
+				"nom" : "BRUMATH",
 				"date" : "20200325",
-				"heure" : "02",
-				"effectif_previsionnel" : "49",
+				"heure" : "18",
+				"effectif_previsionnel" : "65",
 				"effectif_reel" : "0",
 				"etat" : "na",
-				"seuil_ro" : 16,
-				"seuil_vigilance" : 15,
-				"seuil_crise" : 14
+				"seuil_ro" : 23,
+				"seuil_vigilance" : 21,
+				"seuil_crise" : 16
 			}
 		},
 		{
@@ -4200,18 +4200,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 7.9247423081, 48.7711840559 ]
+				"coordinates" : [ 7.6267904584, 48.3922230186 ]
 			},
 			"properties" : {
-				"nom" : "BRUMATH",
+				"nom" : "ERSTEIN",
 				"date" : "20200325",
-				"heure" : "18",
-				"effectif_previsionnel" : "65",
-				"effectif_reel" : "0",
-				"etat" : "na",
-				"seuil_ro" : 23,
-				"seuil_vigilance" : 21,
-				"seuil_crise" : 16
+				"heure" : "02",
+				"effectif_previsionnel" : "49",
+				"effectif_reel" : "49",
+				"etat" : "ok",
+				"seuil_ro" : 16,
+				"seuil_vigilance" : 15,
+				"seuil_crise" : 14
 			}
 		},
 		{
@@ -5251,8 +5251,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "71",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "71",
+				"etat" : "ok",
 				"seuil_ro" : 19,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14
@@ -5431,8 +5431,8 @@
 				"date" : "20200325",
 				"heure" : "02",
 				"effectif_previsionnel" : "64",
-				"effectif_reel" : "0",
-				"etat" : "na",
+				"effectif_reel" : "64",
+				"etat" : "ok",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 23
