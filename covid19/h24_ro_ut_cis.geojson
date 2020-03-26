@@ -23377,7 +23377,7 @@
 				"date" : "20200326",
 				"heure" : "23",
 				"effectif_reel" : null,
-				"effectif_previsionnel" : "19",
+				"effectif_previsionnel" : "18",
 				"seuil_vigilance" : 9,
 				"seuil_ro" : 9,
 				"etat" : "ok",
