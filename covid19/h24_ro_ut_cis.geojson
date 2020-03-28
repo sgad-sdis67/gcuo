@@ -7231,7 +7231,7 @@
 				"date" : "20200329",
 				"heure" : "07",
 				"effectif_reel" : null,
-				"effectif_previsionnel" : "20",
+				"effectif_previsionnel" : "19",
 				"seuil_vigilance" : 3,
 				"seuil_ro" : 3,
 				"etat" : "ok",
