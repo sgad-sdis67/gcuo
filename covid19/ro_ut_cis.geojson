@@ -28221,11 +28221,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SUD EMS",
 				"effectif_previsionnel_astreinte" : 17,
-				"effectif_reel_astreinte" : 17,
+				"effectif_reel_astreinte" : 16,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 17,
-				"effectif_reel_total" : 17
+				"effectif_reel_total" : 16
 			}
 		},
 		{
@@ -28768,14 +28768,14 @@
 				"heure" : "23",
 				"seuil_vigilance" : 19,
 				"seuil_ro" : 21,
-				"etat" : "ro",
+				"etat" : "vigilance",
 				"lien_secteur_ops" : "NORD EMS",
 				"effectif_previsionnel_astreinte" : 0,
 				"effectif_reel_astreinte" : 0,
 				"effectif_previsionnel_garde" : 18,
-				"effectif_reel_garde" : 19,
+				"effectif_reel_garde" : 18,
 				"effectif_previsionnel_total" : 18,
-				"effectif_reel_total" : 19
+				"effectif_reel_total" : 18
 			}
 		},
 		{
@@ -28903,11 +28903,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 24,
-				"effectif_reel_astreinte" : 24,
+				"effectif_reel_astreinte" : 25,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 24,
-				"effectif_reel_total" : 24
+				"effectif_reel_total" : 25
 			}
 		},
 		{
