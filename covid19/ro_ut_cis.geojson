@@ -28529,11 +28529,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "OBERNAI",
 				"effectif_previsionnel_astreinte" : 12,
-				"effectif_reel_astreinte" : 12,
+				"effectif_reel_astreinte" : 13,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 12,
-				"effectif_reel_total" : 12
+				"effectif_reel_total" : 13
 			}
 		},
 		{
