@@ -6132,11 +6132,11 @@
 				"seuil_ro" : 0,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 6,
+				"effectif_previsionnel_astreinte" : 7,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 6,
+				"effectif_previsionnel_total" : 7,
 				"effectif_reel_total" : null
 			}
 		},
@@ -7320,11 +7320,11 @@
 				"seuil_ro" : 0,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 6,
+				"effectif_previsionnel_astreinte" : 7,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 6,
+				"effectif_previsionnel_total" : 7,
 				"effectif_reel_total" : null
 			}
 		},
@@ -18210,11 +18210,11 @@
 				"seuil_ro" : 0,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 6,
+				"effectif_previsionnel_astreinte" : 5,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 6,
+				"effectif_previsionnel_total" : 5,
 				"effectif_reel_total" : null
 			}
 		},
