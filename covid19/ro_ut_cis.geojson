@@ -28462,11 +28462,11 @@
 				"seuil_ro" : 12,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 28,
+				"effectif_previsionnel_total" : 29,
 				"effectif_reel_total" : null
 			}
 		},
