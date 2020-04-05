@@ -304,10 +304,10 @@
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 59,
+				"effectif_previsionnel_astreinte" : 58,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 76
+				"effectif_previsionnel_total" : 75
 			}
 		},
 		{
@@ -408,15 +408,15 @@
 				"nom" : "ERSTEIN",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 51,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 51,
+				"effectif_reel_total" : 51,
 				"effectif_previsionnel_total" : 51
 			}
 		},
@@ -612,10 +612,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 73,
+				"effectif_previsionnel_astreinte" : 72,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 73
+				"effectif_previsionnel_total" : 72
 			}
 		},
 		{
@@ -656,10 +656,10 @@
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 20,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 54,
+				"effectif_previsionnel_astreinte" : 53,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 74
+				"effectif_previsionnel_total" : 73
 			}
 		},
 		{
@@ -1024,15 +1024,15 @@
 				"nom" : "SOULTZFORETS",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 83,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 82,
+				"effectif_reel_total" : 82,
 				"effectif_previsionnel_total" : 83
 			}
 		},
@@ -1140,10 +1140,10 @@
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 60,
+				"effectif_previsionnel_astreinte" : 59,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 77
+				"effectif_previsionnel_total" : 76
 			}
 		},
 		{
@@ -2014,15 +2014,15 @@
 				"nom" : "SAVERNE",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 36,
 				"seuil_vigilance" : 24,
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 6,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 6,
 				"effectif_previsionnel_astreinte" : 97,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 96,
+				"effectif_reel_total" : 102,
 				"effectif_previsionnel_total" : 103
 			}
 		},
@@ -2102,15 +2102,15 @@
 				"nom" : "SARREUNION",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 19,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 72,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 71,
+				"effectif_reel_total" : 71,
 				"effectif_previsionnel_total" : 72
 			}
 		},
@@ -2146,15 +2146,15 @@
 				"nom" : "MOLSHEIM",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16,
 				"effectif_previsionnel_garde" : 9,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 68,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 68,
+				"effectif_reel_total" : 77,
 				"effectif_previsionnel_total" : 77
 			}
 		},
@@ -2542,15 +2542,15 @@
 				"nom" : "NORD EMS",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 23,
 				"effectif_previsionnel_garde" : 19,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 19,
 				"effectif_previsionnel_astreinte" : 50,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 49,
+				"effectif_reel_total" : 68,
 				"effectif_previsionnel_total" : 69
 			}
 		},
@@ -3400,15 +3400,15 @@
 				"nom" : "SUD EMS",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 35,
 				"seuil_vigilance" : 28,
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 20,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 20,
 				"effectif_previsionnel_astreinte" : 53,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 52,
+				"effectif_reel_total" : 72,
 				"effectif_previsionnel_total" : 73
 			}
 		},
@@ -3956,10 +3956,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 84,
+				"effectif_previsionnel_astreinte" : 83,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 84
+				"effectif_previsionnel_total" : 83
 			}
 		},
 		{
@@ -4258,15 +4258,15 @@
 				"nom" : "SCHIRMECK",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 17,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 52,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 52,
+				"effectif_reel_total" : 52,
 				"effectif_previsionnel_total" : 52
 			}
 		},
@@ -4566,15 +4566,15 @@
 				"nom" : "HAGUENAU",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 31,
 				"seuil_vigilance" : 23,
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 107,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 107,
+				"effectif_reel_total" : 116,
 				"effectif_previsionnel_total" : 116
 			}
 		},
@@ -5930,15 +5930,15 @@
 				"nom" : "CENTRE EMS",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 37,
 				"seuil_vigilance" : 33,
 				"seuil_crise" : 28,
 				"effectif_previsionnel_garde" : 38,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 38,
 				"effectif_previsionnel_astreinte" : 0,
 				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_total" : 38,
 				"effectif_previsionnel_total" : 38
 			}
 		},
@@ -6084,15 +6084,15 @@
 				"nom" : "OBERNAI",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 16,
 				"seuil_vigilance" : 15,
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 3,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 3,
 				"effectif_previsionnel_astreinte" : 59,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 59,
+				"effectif_reel_total" : 62,
 				"effectif_previsionnel_total" : 62
 			}
 		},
@@ -6414,15 +6414,15 @@
 				"nom" : "SELESTAT",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 24,
 				"seuil_vigilance" : 20,
 				"seuil_crise" : 16,
 				"effectif_previsionnel_garde" : 9,
-				"effectif_reel_garde" : 0,
+				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 72,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 72,
+				"effectif_reel_total" : 81,
 				"effectif_previsionnel_total" : 81
 			}
 		},
@@ -6596,10 +6596,10 @@
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 57,
+				"effectif_previsionnel_astreinte" : 56,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 74
+				"effectif_previsionnel_total" : 73
 			}
 		},
 		{
@@ -6684,10 +6684,10 @@
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 58,
+				"effectif_previsionnel_astreinte" : 57,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 75
+				"effectif_previsionnel_total" : 74
 			}
 		},
 		{
@@ -6700,15 +6700,15 @@
 				"nom" : "BRUMATH",
 				"date" : "20200405",
 				"heure" : "17",
-				"etat" : "na",
+				"etat" : "ok",
 				"seuil_ro" : 23,
 				"seuil_vigilance" : 21,
 				"seuil_crise" : 16,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 80,
-				"effectif_reel_astreinte" : 0,
-				"effectif_reel_total" : 0,
+				"effectif_reel_astreinte" : 80,
+				"effectif_reel_total" : 80,
 				"effectif_previsionnel_total" : 80
 			}
 		},
@@ -6728,10 +6728,10 @@
 				"seuil_crise" : 20,
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 57,
+				"effectif_previsionnel_astreinte" : 56,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 74
+				"effectif_previsionnel_total" : 73
 			}
 		},
 		{
