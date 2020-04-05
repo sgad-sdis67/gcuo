@@ -392,10 +392,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 55,
+				"effectif_previsionnel_astreinte" : 56,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 55
+				"effectif_previsionnel_total" : 56
 			}
 		},
 		{
@@ -766,10 +766,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 54,
+				"effectif_previsionnel_astreinte" : 55,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 54
+				"effectif_previsionnel_total" : 55
 			}
 		},
 		{
@@ -1185,8 +1185,8 @@
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 52,
-				"effectif_reel_astreinte" : 52,
-				"effectif_reel_total" : 52,
+				"effectif_reel_astreinte" : 53,
+				"effectif_reel_total" : 53,
 				"effectif_previsionnel_total" : 52
 			}
 		},
@@ -2658,10 +2658,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 55,
+				"effectif_previsionnel_astreinte" : 56,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 55
+				"effectif_previsionnel_total" : 56
 			}
 		},
 		{
@@ -4550,10 +4550,10 @@
 				"seuil_crise" : 16,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 76,
+				"effectif_previsionnel_astreinte" : 75,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 85
+				"effectif_previsionnel_total" : 84
 			}
 		},
 		{
@@ -5232,10 +5232,10 @@
 				"seuil_crise" : 16,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 76,
+				"effectif_previsionnel_astreinte" : 75,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 85
+				"effectif_previsionnel_total" : 84
 			}
 		},
 		{
@@ -5321,8 +5321,8 @@
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 75,
-				"effectif_reel_astreinte" : 75,
-				"effectif_reel_total" : 84,
+				"effectif_reel_astreinte" : 74,
+				"effectif_reel_total" : 83,
 				"effectif_previsionnel_total" : 84
 			}
 		},
@@ -5870,10 +5870,10 @@
 				"seuil_crise" : 16,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 76,
+				"effectif_previsionnel_astreinte" : 75,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 85
+				"effectif_previsionnel_total" : 84
 			}
 		},
 		{
