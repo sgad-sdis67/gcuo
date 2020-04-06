@@ -14625,11 +14625,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "BRUMATH",
 				"effectif_previsionnel_astreinte" : 5,
-				"effectif_reel_astreinte" : 5,
+				"effectif_reel_astreinte" : 4,
 				"effectif_previsionnel_garde" : 7,
 				"effectif_reel_garde" : 7,
 				"effectif_previsionnel_total" : 12,
-				"effectif_reel_total" : 12
+				"effectif_reel_total" : 11
 			}
 		},
 		{
@@ -14889,11 +14889,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "NORD EMS",
 				"effectif_previsionnel_astreinte" : 14,
-				"effectif_reel_astreinte" : 14,
+				"effectif_reel_astreinte" : 15,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : 3,
 				"effectif_previsionnel_total" : 17,
-				"effectif_reel_total" : 17
+				"effectif_reel_total" : 18
 			}
 		},
 		{
@@ -15395,11 +15395,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "BRUMATH",
 				"effectif_previsionnel_astreinte" : 15,
-				"effectif_reel_astreinte" : 15,
+				"effectif_reel_astreinte" : 14,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : 3,
 				"effectif_previsionnel_total" : 18,
-				"effectif_reel_total" : 18
+				"effectif_reel_total" : 17
 			}
 		},
 		{
