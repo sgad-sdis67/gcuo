@@ -18,10 +18,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 100,
+				"effectif_previsionnel_astreinte" : 104,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 109
+				"effectif_previsionnel_total" : 113
 			}
 		},
 		{
@@ -1052,10 +1052,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 97,
+				"effectif_previsionnel_astreinte" : 101,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 106
+				"effectif_previsionnel_total" : 110
 			}
 		},
 		{
@@ -1339,8 +1339,8 @@
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 78,
-				"effectif_reel_astreinte" : 78,
-				"effectif_reel_total" : 87,
+				"effectif_reel_astreinte" : 79,
+				"effectif_reel_total" : 88,
 				"effectif_previsionnel_total" : 87
 			}
 		},
@@ -3759,8 +3759,8 @@
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 95,
-				"effectif_reel_astreinte" : 97,
-				"effectif_reel_total" : 106,
+				"effectif_reel_astreinte" : 101,
+				"effectif_reel_total" : 110,
 				"effectif_previsionnel_total" : 104
 			}
 		},
@@ -4441,8 +4441,8 @@
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 57,
-				"effectif_reel_astreinte" : 57,
-				"effectif_reel_total" : 57,
+				"effectif_reel_astreinte" : 56,
+				"effectif_reel_total" : 56,
 				"effectif_previsionnel_total" : 57
 			}
 		},
@@ -4462,10 +4462,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 98,
+				"effectif_previsionnel_astreinte" : 102,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 107
+				"effectif_previsionnel_total" : 111
 			}
 		},
 		{
@@ -4484,10 +4484,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 60,
+				"effectif_previsionnel_astreinte" : 59,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 60
+				"effectif_previsionnel_total" : 59
 			}
 		},
 		{
