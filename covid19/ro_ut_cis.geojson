@@ -28572,11 +28572,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 18,
+				"effectif_previsionnel_astreinte" : 19,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 18,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28902,11 +28902,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 27,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 27,
+				"effectif_previsionnel_total" : 26,
 				"effectif_reel_total" : null
 			}
 		},
