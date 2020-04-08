@@ -28001,11 +28001,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "BRUMATH",
 				"effectif_previsionnel_astreinte" : 27,
-				"effectif_reel_astreinte" : 27,
+				"effectif_reel_astreinte" : 26,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 27,
-				"effectif_reel_total" : 27
+				"effectif_reel_total" : 26
 			}
 		},
 		{
@@ -28507,11 +28507,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SUD EMS",
 				"effectif_previsionnel_astreinte" : 11,
-				"effectif_reel_astreinte" : 11,
+				"effectif_reel_astreinte" : 10,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 11,
-				"effectif_reel_total" : 11
+				"effectif_reel_total" : 10
 			}
 		},
 		{
@@ -28639,11 +28639,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 9,
-				"effectif_reel_astreinte" : 9,
+				"effectif_reel_astreinte" : 10,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 9,
-				"effectif_reel_total" : 9
+				"effectif_reel_total" : 10
 			}
 		},
 		{
@@ -28903,11 +28903,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 29,
-				"effectif_reel_astreinte" : 29,
+				"effectif_reel_astreinte" : 30,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 29,
-				"effectif_reel_total" : 29
+				"effectif_reel_total" : 30
 			}
 		},
 		{
