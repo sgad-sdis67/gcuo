@@ -16142,11 +16142,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -16604,11 +16604,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 17,
+				"effectif_previsionnel_astreinte" : 16,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -17352,11 +17352,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -17814,11 +17814,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 17,
+				"effectif_previsionnel_astreinte" : 16,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -18562,11 +18562,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -18936,11 +18936,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 14,
+				"effectif_previsionnel_astreinte" : 13,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -19024,11 +19024,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 17,
+				"effectif_previsionnel_astreinte" : 16,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -19772,11 +19772,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -20146,11 +20146,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -20234,11 +20234,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 17,
+				"effectif_previsionnel_astreinte" : 16,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -20982,11 +20982,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -21356,11 +21356,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -21444,11 +21444,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 17,
+				"effectif_previsionnel_astreinte" : 16,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -22566,11 +22566,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -23776,11 +23776,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 21,
+				"effectif_previsionnel_astreinte" : 20,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -24986,11 +24986,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 21,
+				"effectif_previsionnel_astreinte" : 20,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
