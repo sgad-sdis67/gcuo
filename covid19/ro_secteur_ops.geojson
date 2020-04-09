@@ -18,10 +18,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 108,
+				"effectif_previsionnel_astreinte" : 107,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 117
+				"effectif_previsionnel_total" : 116
 			}
 		},
 		{
@@ -393,8 +393,8 @@
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 58,
-				"effectif_reel_astreinte" : 58,
-				"effectif_reel_total" : 58,
+				"effectif_reel_astreinte" : 57,
+				"effectif_reel_total" : 57,
 				"effectif_previsionnel_total" : 58
 			}
 		},
@@ -1075,8 +1075,8 @@
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 71,
-				"effectif_reel_astreinte" : 71,
-				"effectif_reel_total" : 71,
+				"effectif_reel_astreinte" : 72,
+				"effectif_reel_total" : 72,
 				"effectif_previsionnel_total" : 71
 			}
 		},
@@ -1294,10 +1294,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 72,
+				"effectif_previsionnel_astreinte" : 73,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 72
+				"effectif_previsionnel_total" : 73
 			}
 		},
 		{
@@ -5628,10 +5628,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 58,
+				"effectif_previsionnel_astreinte" : 57,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 58
+				"effectif_previsionnel_total" : 57
 			}
 		},
 		{
@@ -6289,8 +6289,8 @@
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 106,
-				"effectif_reel_astreinte" : 107,
-				"effectif_reel_total" : 116,
+				"effectif_reel_astreinte" : 106,
+				"effectif_reel_total" : 115,
 				"effectif_previsionnel_total" : 115
 			}
 		},
