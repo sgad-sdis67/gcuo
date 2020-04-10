@@ -28089,11 +28089,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "ERSTEIN",
 				"effectif_previsionnel_astreinte" : 19,
-				"effectif_reel_astreinte" : 19,
+				"effectif_reel_astreinte" : 18,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 19,
-				"effectif_reel_total" : 19
+				"effectif_reel_total" : 18
 			}
 		},
 		{
