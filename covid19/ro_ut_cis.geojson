@@ -25800,11 +25800,11 @@
 				"seuil_ro" : 2,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 20,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -26460,11 +26460,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 18,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 18,
 				"effectif_reel_total" : null
 			}
 		},
@@ -26526,11 +26526,11 @@
 				"seuil_ro" : 6,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 13,
+				"effectif_previsionnel_astreinte" : 12,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 13,
+				"effectif_previsionnel_total" : 12,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27010,11 +27010,11 @@
 				"seuil_ro" : 2,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 20,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27670,11 +27670,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 18,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 18,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27736,11 +27736,11 @@
 				"seuil_ro" : 6,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 13,
+				"effectif_previsionnel_astreinte" : 12,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 13,
+				"effectif_previsionnel_total" : 12,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28220,11 +28220,11 @@
 				"seuil_ro" : 2,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 21,
+				"effectif_previsionnel_astreinte" : 22,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 22,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28880,11 +28880,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 18,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 18,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28946,11 +28946,11 @@
 				"seuil_ro" : 6,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 13,
+				"effectif_previsionnel_astreinte" : 12,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 13,
+				"effectif_previsionnel_total" : 12,
 				"effectif_reel_total" : null
 			}
 		},
