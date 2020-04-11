@@ -27869,11 +27869,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "ERSTEIN",
 				"effectif_previsionnel_astreinte" : 16,
-				"effectif_reel_astreinte" : 16,
+				"effectif_reel_astreinte" : 17,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 16,
-				"effectif_reel_total" : 16
+				"effectif_reel_total" : 17
 			}
 		},
 		{
@@ -28639,11 +28639,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 7,
-				"effectif_reel_astreinte" : 7,
+				"effectif_reel_astreinte" : 8,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 7,
-				"effectif_reel_total" : 7
+				"effectif_reel_total" : 8
 			}
 		},
 		{
