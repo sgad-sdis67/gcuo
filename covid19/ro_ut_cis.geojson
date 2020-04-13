@@ -17815,11 +17815,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "BRUMATH",
 				"effectif_previsionnel_astreinte" : 24,
-				"effectif_reel_astreinte" : 24,
+				"effectif_reel_astreinte" : 25,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 24,
-				"effectif_reel_total" : 24
+				"effectif_reel_total" : 25
 			}
 		},
 		{
@@ -18562,11 +18562,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 21,
+				"effectif_previsionnel_astreinte" : 20,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 20,
 				"effectif_reel_total" : null
 			}
 		},
@@ -19024,11 +19024,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 25,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 24,
+				"effectif_previsionnel_total" : 25,
 				"effectif_reel_total" : null
 			}
 		},
@@ -20234,11 +20234,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 25,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 24,
+				"effectif_previsionnel_total" : 25,
 				"effectif_reel_total" : null
 			}
 		},
@@ -21444,11 +21444,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 25,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 24,
+				"effectif_previsionnel_total" : 25,
 				"effectif_reel_total" : null
 			}
 		},
@@ -22654,11 +22654,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 25,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 24,
+				"effectif_previsionnel_total" : 25,
 				"effectif_reel_total" : null
 			}
 		},
@@ -23864,11 +23864,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 25,
+				"effectif_previsionnel_total" : 26,
 				"effectif_reel_total" : null
 			}
 		},
@@ -25074,11 +25074,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 25,
+				"effectif_previsionnel_total" : 26,
 				"effectif_reel_total" : null
 			}
 		},
@@ -26284,11 +26284,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 25,
+				"effectif_previsionnel_total" : 26,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27494,11 +27494,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 25,
+				"effectif_previsionnel_total" : 26,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28704,11 +28704,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 26,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 25,
+				"effectif_previsionnel_total" : 26,
 				"effectif_reel_total" : null
 			}
 		},
