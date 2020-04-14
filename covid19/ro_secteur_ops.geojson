@@ -18,10 +18,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 114,
+				"effectif_previsionnel_astreinte" : 115,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 123
+				"effectif_previsionnel_total" : 124
 			}
 		},
 		{
@@ -239,8 +239,8 @@
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 60,
-				"effectif_reel_astreinte" : 61,
-				"effectif_reel_total" : 61,
+				"effectif_reel_astreinte" : 60,
+				"effectif_reel_total" : 60,
 				"effectif_previsionnel_total" : 60
 			}
 		},
@@ -2549,8 +2549,8 @@
 				"effectif_previsionnel_garde" : 19,
 				"effectif_reel_garde" : 19,
 				"effectif_previsionnel_astreinte" : 51,
-				"effectif_reel_astreinte" : 51,
-				"effectif_reel_total" : 70,
+				"effectif_reel_astreinte" : 52,
+				"effectif_reel_total" : 71,
 				"effectif_previsionnel_total" : 70
 			}
 		},
@@ -2747,8 +2747,8 @@
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 17,
 				"effectif_previsionnel_astreinte" : 66,
-				"effectif_reel_astreinte" : 66,
-				"effectif_reel_total" : 83,
+				"effectif_reel_astreinte" : 67,
+				"effectif_reel_total" : 84,
 				"effectif_previsionnel_total" : 83
 			}
 		},
@@ -3781,8 +3781,8 @@
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_astreinte" : 111,
-				"effectif_reel_astreinte" : 112,
-				"effectif_reel_total" : 121,
+				"effectif_reel_astreinte" : 113,
+				"effectif_reel_total" : 122,
 				"effectif_previsionnel_total" : 120
 			}
 		},
@@ -6794,10 +6794,10 @@
 				"seuil_crise" : 23,
 				"effectif_previsionnel_garde" : 19,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 51,
+				"effectif_previsionnel_astreinte" : 52,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 70
+				"effectif_previsionnel_total" : 71
 			}
 		},
 		{
