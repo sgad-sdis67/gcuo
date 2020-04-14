@@ -26307,11 +26307,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SOULTZFORETS",
 				"effectif_previsionnel_astreinte" : 24,
-				"effectif_reel_astreinte" : 24,
+				"effectif_reel_astreinte" : 25,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 24,
-				"effectif_reel_total" : 24
+				"effectif_reel_total" : 25
 			}
 		},
 		{
@@ -26483,11 +26483,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 28,
-				"effectif_reel_astreinte" : 26,
+				"effectif_reel_astreinte" : 27,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 28,
-				"effectif_reel_total" : 26
+				"effectif_reel_total" : 27
 			}
 		},
 		{
@@ -27516,11 +27516,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SOULTZFORETS",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 25,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 24,
+				"effectif_previsionnel_total" : 25,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27692,11 +27692,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 26,
+				"effectif_previsionnel_astreinte" : 27,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 26,
+				"effectif_previsionnel_total" : 27,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28726,11 +28726,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SOULTZFORETS",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 25,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 24,
+				"effectif_previsionnel_total" : 25,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28902,11 +28902,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 26,
+				"effectif_previsionnel_astreinte" : 27,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 26,
+				"effectif_previsionnel_total" : 27,
 				"effectif_reel_total" : null
 			}
 		},
