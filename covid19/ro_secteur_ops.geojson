@@ -6860,10 +6860,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 116,
+				"effectif_previsionnel_astreinte" : 117,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 125
+				"effectif_previsionnel_total" : 126
 			}
 		}
 	]
