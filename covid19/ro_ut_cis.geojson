@@ -28396,11 +28396,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 11,
+				"effectif_previsionnel_astreinte" : 12,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
