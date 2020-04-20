@@ -28617,11 +28617,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SCHIRMECK",
 				"effectif_previsionnel_astreinte" : 27,
-				"effectif_reel_astreinte" : 27,
+				"effectif_reel_astreinte" : 26,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 27,
-				"effectif_reel_total" : 27
+				"effectif_reel_total" : 26
 			}
 		},
 		{
@@ -28663,9 +28663,9 @@
 				"effectif_previsionnel_astreinte" : 10,
 				"effectif_reel_astreinte" : 10,
 				"effectif_previsionnel_garde" : 9,
-				"effectif_reel_garde" : 9,
+				"effectif_reel_garde" : 8,
 				"effectif_previsionnel_total" : 19,
-				"effectif_reel_total" : 19
+				"effectif_reel_total" : 18
 			}
 		},
 		{
