@@ -28594,11 +28594,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 22,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 28,
+				"effectif_previsionnel_total" : 27,
 				"effectif_reel_total" : null
 			}
 		},
