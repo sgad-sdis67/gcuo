@@ -28616,11 +28616,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SCHIRMECK",
-				"effectif_previsionnel_astreinte" : 25,
+				"effectif_previsionnel_astreinte" : 24,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 25,
+				"effectif_previsionnel_total" : 24,
 				"effectif_reel_total" : null
 			}
 		},
