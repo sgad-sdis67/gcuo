@@ -25624,11 +25624,11 @@
 				"seuil_ro" : 0,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 9,
+				"effectif_previsionnel_astreinte" : 8,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 8,
 				"effectif_reel_total" : null
 			}
 		},
@@ -25734,11 +25734,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 24,
+				"effectif_previsionnel_astreinte" : 23,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 33,
+				"effectif_previsionnel_total" : 32,
 				"effectif_reel_total" : null
 			}
 		},
@@ -26284,11 +26284,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 22,
+				"effectif_previsionnel_astreinte" : 23,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 22,
+				"effectif_previsionnel_total" : 23,
 				"effectif_reel_total" : null
 			}
 		},
@@ -26834,11 +26834,11 @@
 				"seuil_ro" : 0,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 9,
+				"effectif_previsionnel_astreinte" : 8,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 8,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27494,11 +27494,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 22,
+				"effectif_previsionnel_astreinte" : 23,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 22,
+				"effectif_previsionnel_total" : 23,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28044,11 +28044,11 @@
 				"seuil_ro" : 0,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 9,
+				"effectif_previsionnel_astreinte" : 8,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 8,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28704,11 +28704,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 22,
+				"effectif_previsionnel_astreinte" : 23,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 22,
+				"effectif_previsionnel_total" : 23,
 				"effectif_reel_total" : null
 			}
 		},
