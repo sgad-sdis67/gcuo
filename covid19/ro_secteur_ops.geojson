@@ -5871,8 +5871,8 @@
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 17,
 				"effectif_previsionnel_astreinte" : 76,
-				"effectif_reel_astreinte" : 76,
-				"effectif_reel_total" : 93,
+				"effectif_reel_astreinte" : 75,
+				"effectif_reel_total" : 92,
 				"effectif_previsionnel_total" : 93
 			}
 		},
