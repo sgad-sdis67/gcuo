@@ -28154,11 +28154,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 26,
+				"effectif_previsionnel_astreinte" : 27,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 8,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 34,
+				"effectif_previsionnel_total" : 35,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28220,11 +28220,11 @@
 				"seuil_ro" : 2,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 18,
+				"effectif_previsionnel_astreinte" : 19,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 18,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28264,11 +28264,11 @@
 				"seuil_ro" : 2,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SOULTZFORETS",
-				"effectif_previsionnel_astreinte" : 31,
+				"effectif_previsionnel_astreinte" : 32,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 31,
+				"effectif_previsionnel_total" : 32,
 				"effectif_reel_total" : null
 			}
 		},
