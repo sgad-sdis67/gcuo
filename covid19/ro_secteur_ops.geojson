@@ -1207,8 +1207,8 @@
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : 3,
 				"effectif_previsionnel_astreinte" : 67,
-				"effectif_reel_astreinte" : 67,
-				"effectif_reel_total" : 70,
+				"effectif_reel_astreinte" : 66,
+				"effectif_reel_total" : 69,
 				"effectif_previsionnel_total" : 70
 			}
 		},
@@ -1955,8 +1955,8 @@
 				"effectif_previsionnel_garde" : 17,
 				"effectif_reel_garde" : 17,
 				"effectif_previsionnel_astreinte" : 68,
-				"effectif_reel_astreinte" : 67,
-				"effectif_reel_total" : 84,
+				"effectif_reel_astreinte" : 66,
+				"effectif_reel_total" : 83,
 				"effectif_previsionnel_total" : 85
 			}
 		},
