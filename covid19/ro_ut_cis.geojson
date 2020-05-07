@@ -28111,11 +28111,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SUD EMS",
 				"effectif_previsionnel_astreinte" : 15,
-				"effectif_reel_astreinte" : 15,
+				"effectif_reel_astreinte" : 16,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 15,
-				"effectif_reel_total" : 15
+				"effectif_reel_total" : 16
 			}
 		},
 		{
@@ -28221,11 +28221,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SUD EMS",
 				"effectif_previsionnel_astreinte" : 17,
-				"effectif_reel_astreinte" : 17,
+				"effectif_reel_astreinte" : 16,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 17,
-				"effectif_reel_total" : 17
+				"effectif_reel_total" : 16
 			}
 		},
 		{
@@ -28859,11 +28859,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "MOLSHEIM",
 				"effectif_previsionnel_astreinte" : 23,
-				"effectif_reel_astreinte" : 23,
+				"effectif_reel_astreinte" : 22,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 23,
-				"effectif_reel_total" : 23
+				"effectif_reel_total" : 22
 			}
 		},
 		{
@@ -29035,11 +29035,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 16,
-				"effectif_reel_astreinte" : 17,
+				"effectif_reel_astreinte" : 18,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 16,
-				"effectif_reel_total" : 17
+				"effectif_reel_total" : 18
 			}
 		}
 	]
