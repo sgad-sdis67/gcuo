@@ -28045,11 +28045,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SARREUNION",
 				"effectif_previsionnel_astreinte" : 8,
-				"effectif_reel_astreinte" : 8,
+				"effectif_reel_astreinte" : 9,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 8,
-				"effectif_reel_total" : 8
+				"effectif_reel_total" : 9
 			}
 		},
 		{
@@ -28705,11 +28705,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "BRUMATH",
 				"effectif_previsionnel_astreinte" : 19,
-				"effectif_reel_astreinte" : 19,
+				"effectif_reel_astreinte" : 20,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 19,
-				"effectif_reel_total" : 19
+				"effectif_reel_total" : 20
 			}
 		},
 		{
