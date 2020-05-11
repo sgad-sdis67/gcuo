@@ -27891,11 +27891,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "OBERNAI",
 				"effectif_previsionnel_astreinte" : 9,
-				"effectif_reel_astreinte" : 9,
+				"effectif_reel_astreinte" : 10,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 9,
-				"effectif_reel_total" : 9
+				"effectif_reel_total" : 10
 			}
 		},
 		{
@@ -28133,11 +28133,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "BRUMATH",
 				"effectif_previsionnel_astreinte" : 16,
-				"effectif_reel_astreinte" : 16,
+				"effectif_reel_astreinte" : 17,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 16,
-				"effectif_reel_total" : 16
+				"effectif_reel_total" : 17
 			}
 		},
 		{
