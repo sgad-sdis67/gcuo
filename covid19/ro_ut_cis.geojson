@@ -15064,11 +15064,11 @@
 				"seuil_ro" : 3,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SAVERNE",
-				"effectif_previsionnel_astreinte" : 2,
+				"effectif_previsionnel_astreinte" : 1,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 2,
+				"effectif_previsionnel_total" : 1,
 				"effectif_reel_total" : null
 			}
 		},
