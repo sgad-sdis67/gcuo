@@ -28155,11 +28155,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "HAGUENAU",
 				"effectif_previsionnel_astreinte" : 15,
-				"effectif_reel_astreinte" : 15,
+				"effectif_reel_astreinte" : 16,
 				"effectif_previsionnel_garde" : 9,
 				"effectif_reel_garde" : 9,
 				"effectif_previsionnel_total" : 24,
-				"effectif_reel_total" : 24
+				"effectif_reel_total" : 25
 			}
 		},
 		{
@@ -28309,11 +28309,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SUD EMS",
 				"effectif_previsionnel_astreinte" : 18,
-				"effectif_reel_astreinte" : 18,
+				"effectif_reel_astreinte" : 19,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 18,
-				"effectif_reel_total" : 18
+				"effectif_reel_total" : 19
 			}
 		},
 		{
