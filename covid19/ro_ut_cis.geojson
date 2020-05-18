@@ -28045,11 +28045,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "ERSTEIN",
 				"effectif_previsionnel_astreinte" : 14,
-				"effectif_reel_astreinte" : 13,
+				"effectif_reel_astreinte" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 14,
-				"effectif_reel_total" : 13
+				"effectif_reel_total" : 14
 			}
 		},
 		{
@@ -28551,11 +28551,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SAVERNE",
 				"effectif_previsionnel_astreinte" : 18,
-				"effectif_reel_astreinte" : 18,
+				"effectif_reel_astreinte" : 19,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : 6,
 				"effectif_previsionnel_total" : 24,
-				"effectif_reel_total" : 24
+				"effectif_reel_total" : 25
 			}
 		},
 		{
