@@ -1096,10 +1096,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 23,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 34,
+				"effectif_previsionnel_astreinte" : 33,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 57
+				"effectif_previsionnel_total" : 56
 			}
 		},
 		{
