@@ -8486,11 +8486,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 7,
+				"effectif_previsionnel_astreinte" : 6,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 10,
+				"effectif_previsionnel_total" : 9,
 				"effectif_reel_total" : null
 			}
 		},
@@ -9696,11 +9696,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 5,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 8,
+				"effectif_previsionnel_total" : 7,
 				"effectif_reel_total" : null
 			}
 		},
@@ -10906,11 +10906,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 6,
+				"effectif_previsionnel_astreinte" : 5,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 8,
 				"effectif_reel_total" : null
 			}
 		},
@@ -12116,11 +12116,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 6,
+				"effectif_previsionnel_astreinte" : 5,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 8,
 				"effectif_reel_total" : null
 			}
 		},
@@ -13326,11 +13326,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 6,
+				"effectif_previsionnel_astreinte" : 5,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 8,
 				"effectif_reel_total" : null
 			}
 		},
@@ -14536,11 +14536,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 7,
+				"effectif_previsionnel_astreinte" : 6,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 10,
+				"effectif_previsionnel_total" : 9,
 				"effectif_reel_total" : null
 			}
 		},
@@ -15746,11 +15746,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 7,
+				"effectif_previsionnel_astreinte" : 6,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 10,
+				"effectif_previsionnel_total" : 9,
 				"effectif_reel_total" : null
 			}
 		},
@@ -16956,11 +16956,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 8,
+				"effectif_previsionnel_astreinte" : 7,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 11,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
@@ -18166,11 +18166,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "OBERNAI",
-				"effectif_previsionnel_astreinte" : 8,
+				"effectif_previsionnel_astreinte" : 7,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 3,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 11,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
