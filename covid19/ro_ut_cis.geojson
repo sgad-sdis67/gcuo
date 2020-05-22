@@ -28265,11 +28265,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SOULTZFORETS",
 				"effectif_previsionnel_astreinte" : 25,
-				"effectif_reel_astreinte" : 25,
+				"effectif_reel_astreinte" : 26,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 25,
-				"effectif_reel_total" : 25
+				"effectif_reel_total" : 26
 			}
 		},
 		{
@@ -28947,11 +28947,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SELESTAT",
 				"effectif_previsionnel_astreinte" : 13,
-				"effectif_reel_astreinte" : 13,
+				"effectif_reel_astreinte" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 13,
-				"effectif_reel_total" : 13
+				"effectif_reel_total" : 14
 			}
 		},
 		{
