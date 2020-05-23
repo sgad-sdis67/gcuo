@@ -700,10 +700,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 77,
+				"effectif_previsionnel_astreinte" : 78,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 77
+				"effectif_previsionnel_total" : 78
 			}
 		},
 		{
@@ -1074,10 +1074,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 5,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 95,
+				"effectif_previsionnel_astreinte" : 96,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 100
+				"effectif_previsionnel_total" : 101
 			}
 		},
 		{
@@ -1779,8 +1779,8 @@
 				"effectif_previsionnel_garde" : 5,
 				"effectif_reel_garde" : 5,
 				"effectif_previsionnel_astreinte" : 95,
-				"effectif_reel_astreinte" : 95,
-				"effectif_reel_total" : 100,
+				"effectif_reel_astreinte" : 96,
+				"effectif_reel_total" : 101,
 				"effectif_previsionnel_total" : 100
 			}
 		},
@@ -2768,10 +2768,10 @@
 				"seuil_crise" : 14,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 78,
+				"effectif_previsionnel_astreinte" : 79,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 78
+				"effectif_previsionnel_total" : 79
 			}
 		},
 		{
@@ -5013,8 +5013,8 @@
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_astreinte" : 76,
-				"effectif_reel_astreinte" : 76,
-				"effectif_reel_total" : 76,
+				"effectif_reel_astreinte" : 77,
+				"effectif_reel_total" : 77,
 				"effectif_previsionnel_total" : 76
 			}
 		},
@@ -5562,10 +5562,10 @@
 				"seuil_crise" : 19,
 				"effectif_previsionnel_garde" : 5,
 				"effectif_reel_garde" : 0,
-				"effectif_previsionnel_astreinte" : 95,
+				"effectif_previsionnel_astreinte" : 96,
 				"effectif_reel_astreinte" : 0,
 				"effectif_reel_total" : 0,
-				"effectif_previsionnel_total" : 100
+				"effectif_previsionnel_total" : 101
 			}
 		},
 		{
