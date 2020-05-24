@@ -10884,11 +10884,11 @@
 				"seuil_ro" : 3,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 15,
+				"effectif_previsionnel_total" : 14,
 				"effectif_reel_total" : null
 			}
 		},
@@ -12028,11 +12028,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -12094,11 +12094,11 @@
 				"seuil_ro" : 3,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "HAGUENAU",
-				"effectif_previsionnel_astreinte" : 15,
+				"effectif_previsionnel_astreinte" : 14,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 15,
+				"effectif_previsionnel_total" : 14,
 				"effectif_reel_total" : null
 			}
 		},
@@ -13238,11 +13238,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -14448,11 +14448,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -15658,11 +15658,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -16868,11 +16868,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 19,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 19,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
