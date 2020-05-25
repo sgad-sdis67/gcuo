@@ -26989,11 +26989,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "NORD EMS",
 				"effectif_previsionnel_astreinte" : 23,
-				"effectif_reel_astreinte" : 23,
+				"effectif_reel_astreinte" : 24,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 23,
-				"effectif_reel_total" : 23
+				"effectif_reel_total" : 24
 			}
 		},
 		{
@@ -28198,11 +28198,11 @@
 				"seuil_ro" : 3,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "NORD EMS",
-				"effectif_previsionnel_astreinte" : 23,
+				"effectif_previsionnel_astreinte" : 24,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 23,
+				"effectif_previsionnel_total" : 24,
 				"effectif_reel_total" : null
 			}
 		},
