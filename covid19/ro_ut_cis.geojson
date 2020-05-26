@@ -8948,11 +8948,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
@@ -10158,11 +10158,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
@@ -11368,11 +11368,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
@@ -12578,11 +12578,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
@@ -13788,11 +13788,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
@@ -14998,11 +14998,11 @@
 				"seuil_ro" : 9,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SUD EMS",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 4,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 9,
+				"effectif_previsionnel_total" : 10,
 				"effectif_reel_total" : null
 			}
 		},
