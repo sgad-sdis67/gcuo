@@ -26043,11 +26043,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SARREUNION",
 				"effectif_previsionnel_astreinte" : 21,
-				"effectif_reel_astreinte" : 21,
+				"effectif_reel_astreinte" : 22,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 21,
-				"effectif_reel_total" : 21
+				"effectif_reel_total" : 22
 			}
 		},
 		{
@@ -27252,11 +27252,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 21,
+				"effectif_previsionnel_astreinte" : 22,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 21,
+				"effectif_previsionnel_total" : 22,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27472,11 +27472,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 18,
+				"effectif_previsionnel_astreinte" : 19,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 18,
+				"effectif_previsionnel_total" : 19,
 				"effectif_reel_total" : null
 			}
 		},
@@ -27736,11 +27736,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 17,
+				"effectif_previsionnel_astreinte" : 16,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 17,
+				"effectif_previsionnel_total" : 16,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28462,11 +28462,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SARREUNION",
-				"effectif_previsionnel_astreinte" : 20,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28682,11 +28682,11 @@
 				"seuil_ro" : 4,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "BRUMATH",
-				"effectif_previsionnel_astreinte" : 20,
+				"effectif_previsionnel_astreinte" : 21,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 20,
+				"effectif_previsionnel_total" : 21,
 				"effectif_reel_total" : null
 			}
 		},
@@ -28946,11 +28946,11 @@
 				"seuil_ro" : 7,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "MOLSHEIM",
-				"effectif_previsionnel_astreinte" : 18,
+				"effectif_previsionnel_astreinte" : 17,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 18,
+				"effectif_previsionnel_total" : 17,
 				"effectif_reel_total" : null
 			}
 		},
