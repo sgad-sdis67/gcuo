@@ -15350,11 +15350,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 2,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 14,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 17,
+				"effectif_previsionnel_total" : 16,
 				"effectif_reel_total" : null
 			}
 		},
@@ -16560,11 +16560,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 2,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 14,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 17,
+				"effectif_previsionnel_total" : 16,
 				"effectif_reel_total" : null
 			}
 		},
@@ -17770,11 +17770,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 2,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 14,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 17,
+				"effectif_previsionnel_total" : 16,
 				"effectif_reel_total" : null
 			}
 		},
@@ -18980,11 +18980,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 2,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 14,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 17,
+				"effectif_previsionnel_total" : 16,
 				"effectif_reel_total" : null
 			}
 		},
@@ -20190,11 +20190,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 3,
+				"effectif_previsionnel_astreinte" : 2,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 14,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 17,
+				"effectif_previsionnel_total" : 16,
 				"effectif_reel_total" : null
 			}
 		},
@@ -21400,11 +21400,11 @@
 				"seuil_ro" : 14,
 				"etat" : "vigilance",
 				"lien_secteur_ops" : "SELESTAT",
-				"effectif_previsionnel_astreinte" : 4,
+				"effectif_previsionnel_astreinte" : 3,
 				"effectif_reel_astreinte" : null,
 				"effectif_previsionnel_garde" : 14,
 				"effectif_reel_garde" : null,
-				"effectif_previsionnel_total" : 18,
+				"effectif_previsionnel_total" : 17,
 				"effectif_reel_total" : null
 			}
 		},
