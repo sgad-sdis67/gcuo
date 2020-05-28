@@ -28837,11 +28837,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SELESTAT",
 				"effectif_previsionnel_astreinte" : 14,
-				"effectif_reel_astreinte" : 14,
+				"effectif_reel_astreinte" : 15,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 14,
-				"effectif_reel_total" : 14
+				"effectif_reel_total" : 15
 			}
 		},
 		{
