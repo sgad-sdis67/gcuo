@@ -28001,11 +28001,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SARREUNION",
 				"effectif_previsionnel_astreinte" : 7,
-				"effectif_reel_astreinte" : 7,
+				"effectif_reel_astreinte" : 8,
 				"effectif_previsionnel_garde" : 0,
 				"effectif_reel_garde" : 0,
 				"effectif_previsionnel_total" : 7,
-				"effectif_reel_total" : 7
+				"effectif_reel_total" : 8
 			}
 		},
 		{
@@ -28551,11 +28551,11 @@
 				"etat" : "ok",
 				"lien_secteur_ops" : "SAVERNE",
 				"effectif_previsionnel_astreinte" : 25,
-				"effectif_reel_astreinte" : 25,
+				"effectif_reel_astreinte" : 26,
 				"effectif_previsionnel_garde" : 6,
 				"effectif_reel_garde" : 6,
 				"effectif_previsionnel_total" : 31,
-				"effectif_reel_total" : 31
+				"effectif_reel_total" : 32
 			}
 		},
 		{
